@@ -1,117 +1,145 @@
-# 👋 Hey, I'm Mayur Kharat
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Mayur Kharat
 
-### Computer Engineering Student | Full Stack Developer | Open Source Contributor
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Projects+That+Solve+Real+Problems;Open+Source+Contributor;Hackathon+Enthusiast;Full+Stack+Developer;Exploring+AI+%26+Blockchain" />
-</p>
+### Full Stack Developer • Open Source Contributor • Hackathon Builder
 
----
+Building products, contributing to open source, and exploring AI-powered systems.
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=900&lines=Building+Impactful+Products;Open+Source+Contributor;Django+%7C+React+Developer;Exploring+AI+and+Cybersecurity;Hackathon+Enthusiast" />
 
-* 🎓 Computer Engineering Student at PCCOE, Pune
-* 💻 Full Stack Developer specializing in Django & React
-* 🌱 Currently exploring AI Security, Machine Learning & Blockchain
-* 🏆 Open Source Contributor (SSOC, NSOC)
-* ⚡ Management Executive at GDGC PCCOE
-* 🎯 Passionate about building products that create real-world impact
+</div>
 
 ---
 
-## 🏅 Highlights
+## ⚡ Current Mission
 
-🏆 Built and deployed multiple production-ready web applications
+```yaml
+name: Mayur Kharat
+role: Computer Engineering Student
 
-🏆 Developed the Institutional Examination Management System for Government Polytechnic Nashik
+currently:
+  - Building scalable web applications
+  - Contributing to open source
+  - Exploring AI Security
+  - Preparing for high-impact internships
 
-🏆 Built registration platforms used by 300+ participants
-
-🏆 Contributed to open-source projects through SSOC and NSOC
-
-🏆 Participated in multiple hackathons and innovation challenges
+focus:
+  - Django
+  - React
+  - System Design
+  - Machine Learning
+```
 
 ---
 
-## 💼 Featured Projects
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🚑 Golden Minutes
 
 Emergency response platform connecting nearby volunteers during critical situations.
 
-**Tech:** Django, SQLite, PWA, JavaScript
+Tech:
+Django • PWA • Geolocation • SQLite
+
+</td>
+
+<td width="50%">
+
+### 🎓 IEMCS
+
+Institutional Examination Management System currently deployed and used by Government Polytechnic Nashik.
+
+Tech:
+Django • Bootstrap • MySQL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎯 Innovatex Portal
+
+Registration & management system handling hundreds of registrations.
+
+</td>
+
+<td width="50%">
+
+### 🌐 UHV Platform
+
+Digital platform developed for PCCOE's Universal Human Values initiative.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎓 Institutional Examination Management System
-
-Digital platform for managing examination processes at Government Polytechnic Nashik.
-
-**Tech:** Django, MySQL, Bootstrap
-
----
-
-### 🎯 Innovatex Registration Platform
-
-Event management and registration system with payment integration and admin dashboard.
-
-**Tech:** Django, Razorpay, MySQL
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-C • C++ • Java • JavaScript • Python • PHP • SQL
-
-### Frontend
-
-HTML5 • CSS3 • Bootstrap • Tailwind CSS • React
-
-### Backend
-
-Django • REST APIs • Gunicorn
-
-### Databases
-
-MySQL • SQLite • Oracle
-
-### AI / Data Science
-
-TensorFlow • Scikit-Learn • Pandas • NumPy • Keras • Matplotlib
-
-### Tools
-
-Git • GitHub • Figma • Canva • Linux
-
----
-
-## 📈 GitHub Analytics
+## 🧠 Tech Arsenal
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MayurKharat0390&show_icons=true&theme=tokyonight"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MayurKharat0390&theme=tokyonight"/>
-</p>
 
-<p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayurKharat0390&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,js,python,react,django,html,css,bootstrap,mysql,sqlite,git,github,linux,vscode,figma"/>
+
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📊 Contribution Analytics
 
-💼 LinkedIn: linkedin.com/in/mayur-kharat2006
+<div align="center">
 
-📧 Email: [mayurtheprogrammer12@gmail.com](mailto:mayurtheprogrammer12@gmail.com)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MayurKharat0390&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-📷 Instagram: @im_mayur.kharat
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=MayurKharat0390&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### 💡 Quote
+## 🏆 Open Source Journey
 
-> "Learning by building. Growing by contributing."
+```text
+SSOC 2026      ██████████
+NSOC 2026      ████████░░
+Blood Connect  ██████████
+RankerHub      ███████░░░
+```
 
-⭐ If you like my work, consider starring my repositories.
+---
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MayurKharat0390&theme=tokyo-night&hide_border=true"/>
+
+---
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/MayurKharat0390/MayurKharat0390/output/github-contribution-grid-snake-dark.svg"/>
+
+---
+
+## 🌐 Connect
+
+<a href="https://linkedin.com/in/mayur-kharat2006">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mayurtheprogrammer12@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+---
+
+<div align="center">
+
+### "Code. Build. Ship. Repeat."
+
+</div>
